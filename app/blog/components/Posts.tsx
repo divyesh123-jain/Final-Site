@@ -7,6 +7,7 @@ import blog5 from "@/assets/images/blog-5.png";
 import blog6 from "@/assets/images/blog-6.png";
 import blog7 from "@/assets/images/blog-7.png";
 import blog8 from "@/assets/images/blog-8.png";
+import blog9 from "@/assets/images/blog-9.png.jpg";
 import Image from "next/image";
 
 const posts = [
@@ -81,6 +82,15 @@ const posts = [
       "The financial and social globe has evolved in a very unique way in the past decade, making data the most precious...",
     imgUrl: blog8,
     date: "Aug 2022",
+  },
+  {
+    id: 5,
+    title: "The Future of Work: Embracing AI and Automation",
+    href: "blog/embracing-ai-and-automation",
+    description:
+      "The future of work is rapidly evolving with the integration of AI and automation. In this section, we will delve into...",
+    imgUrl: blog9,
+    date: "Nov 2023",
   },
 
   // More posts...
