@@ -6,7 +6,7 @@ export default function Article() {
     <div className="bg-white px-6 py-32 lg:px-8">
       <div className="mx-auto max-w-4xl text-base leading-7 text-gray-700">
         <p className="text-base font-semibold leading-7 text-indigo-600">
-          4 min read · Nov 11, 2023
+          4 min read · Nov 6, 2023
         </p>
         <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
             The Future of Work: Embracing AI and Automation

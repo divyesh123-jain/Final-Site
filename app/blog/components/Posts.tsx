@@ -12,6 +12,15 @@ import Image from "next/image";
 
 const posts = [
   {
+    id: 5,
+    title: "The Future of Work: Embracing AI and Automation",
+    href: "blog/embracing-ai-and-automation",
+    description:
+      "The future of work is rapidly evolving with the integration of AI and automation. In this section, we will delve into...",
+    imgUrl: blog9,
+    date: "Nov 2023",
+  },
+  {
     id: 1,
     title: "The Reasons Behind FTX Collapse: True Story Revealed",
     href: "blog/reasons-behind-ftx-collapse",
@@ -83,15 +92,7 @@ const posts = [
     imgUrl: blog8,
     date: "Aug 2022",
   },
-  {
-    id: 5,
-    title: "The Future of Work: Embracing AI and Automation",
-    href: "blog/embracing-ai-and-automation",
-    description:
-      "The future of work is rapidly evolving with the integration of AI and automation. In this section, we will delve into...",
-    imgUrl: blog9,
-    date: "Nov 2023",
-  },
+  
 
   // More posts...
 ];
